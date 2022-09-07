@@ -1,0 +1,17 @@
+.search_form {
+   display: flex;
+   justify-content: center;
+}
+.search_input {
+   width: 250px;
+   height: 20px;
+   border-radius: 5px;
+}
+.search_btn{
+    background-color:rgb(206, 56, 56);
+    color: rgb(233, 222, 222);
+    border-radius: 5px;
+
+}
+   
+

@@ -1,0 +1,21 @@
+.select {
+    display: flex;
+    margin:0 auto;
+    background-color: rgb(243, 240, 235);
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 5px;
+    height: 30px;
+}
+.select__option {
+background-color: rgb(201, 48, 48);
+color: white;
+}
+.select__type {
+   background-color: crimson;
+   color: white;
+}
+   
+    
+
+
